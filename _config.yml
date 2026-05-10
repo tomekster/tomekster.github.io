@@ -1,0 +1,19 @@
+title: "Tomasz Sternal - PhD Researcher at ETH Zurich"
+description: "Academic website"
+baseurl: ""
+url: "https://tomekster.github.io"
+author: "Tomasz Sternal"
+
+# Markdown configuration
+markdown: kramdown
+theme: minima # This uses Jekyll's default Minima theme; you can change to other themes
+
+# Optional: exclude certain files or folders
+exclude:
+  - "README.md"
+
+# Optional: Navigation (for Jekyll themes that support it)
+# You can define a menu structure if your theme supports it
+navigation:
+  - text: "Main"
+    link: "/index"
