@@ -3,7 +3,7 @@ layout: default
 title:
 ---
 
-<img src="/assets/img/profile.png" alt="Tomasz Sternal" width="200" style="border-radius: 50%; float: right; margin: 0 0 1em 1em;">
+<img src="assets/img/profile.png" alt="Tomasz Sternal" width="200" style="border-radius: 50%; float: right; margin: 0 0 1em 1em;">
 
 Hi, my name is **Tomasz Sternal**. I am a PhD Researcher in the Scalable Paralel Computing Laboratory at ETH, doing my PhD under supervision of [Torsten Hoefler](https://htor.ethz.ch/).
 My research focuses on Interpretability of Transformer-based architectures and improving the reasoning cpabilities of LLMs.
