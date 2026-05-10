@@ -3,7 +3,9 @@ layout: default
 title:
 ---
 
-I am **Tomasz Sternal**, a PhD student in the Scalable Paralel Computing Laboratory at ETH under supervision of Torsten Hoefler.
+<img src="/assets/img/profile.jpg" alt="Tomasz Sternal" width="200" style="border-radius: 50%; float: right; margin: 0 0 1em 1em;">
+
+Hi, my name is **Tomasz Sternal**. I am a PhD Researcher in the Scalable Paralel Computing Laboratory at ETH, doing my PhD under supervision of [Torsten Hoefler](https://htor.ethz.ch/).
 My research focuses on Interpretability of Transformer-based architectures and improving the reasoning cpabilities of LLMs.
 
 Before starting my PhD I worked for five years as a Technical Lead at Palantir Technologies.
