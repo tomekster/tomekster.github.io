@@ -6,7 +6,7 @@ title:
 I am **Tomasz Sternal**, a PhD student in the Scalable Paralel Computing Laboratory at ETH under supervision of Torsten Hoefler.
 My research focuses on Interpretability of Transformer-based architectures and improving the reasoning cpabilities of LLMs.
 
-Before going back to academia I spent 5 years working as a Technical Lead at Palantir Technologies.
+Before starting my PhD I worked for five years as a Technical Lead at Palantir Technologies.
 
 ---
 
@@ -57,9 +57,7 @@ _CSCW Companion_, 2016
 
 ## VizBin: An Application for Reference-independent Visualization and Human-augmented Binning of Metagenomic Data
 
-Cedric C. Laczny, Tomasz Sternal, Valentin Plugaru, Piotr Gawron, Arash Atashpendar, Houry Hera Margossian, Sergio Coronado, Laurens van der Maaten, Nikos Vlassis, Paul Wilmes.  
-_Microbiome_, 2015
-[DOI](https://doi.org/10.1186/s40168-014-0066-1)
+Cedric C. Laczny, Tomasz Sternal, Valentin Plugaru, Piotr Gawron, Arash Atashpendar, Houry Hera Margossian, Sergio Coronado, Laurens van der Maaten, Nikos Vlassis, Paul Wilmes · _Microbiome_, 2015 · [DOI](https://doi.org/10.1186/s40168-014-0066-1)
 
 ---
 
