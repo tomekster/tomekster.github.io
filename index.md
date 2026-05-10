@@ -61,4 +61,4 @@ Cedric C. Laczny, Tomasz Sternal, Valentin Plugaru, Piotr Gawron, Arash Atashpen
 
 ## Contact
 
-- [tsternal@ethz.ch](mailto:tsternal@ethz.ch) · [GitHub](https://github.com/tomekster) · [Twitter](https://x.com/TomaszSternal) · [LinkedIn](https://www.linkedin.com/in/tsternal/)
+Email: [tsternal@ethz.ch](mailto:tsternal@ethz.ch) · [GitHub](https://github.com/tomekster) · [Twitter](https://x.com/TomaszSternal) · [LinkedIn](https://www.linkedin.com/in/tsternal/)
