@@ -6,7 +6,7 @@ title:
 <img src="assets/img/profile.png" alt="Tomasz Sternal" width="200" style="border-radius: 50%; float: right; margin: 0 0 1em 1em;">
 
 Hi, my name is **Tomasz Sternal**. I am a PhD student in the Scalable Parallel Computing Lab at ETH Zurich, supervised by [Torsten Hoefler](https://htor.ethz.ch/).
-My research focuses on the interpretability of transformer-based architectures and improving their reasoning capabilities.
+My research focuses on the interpretability and reasoning capabilities of transformer-based models.
 
 Before starting my PhD, I worked for five years as a Technical Lead at Palantir Technologies.
 
