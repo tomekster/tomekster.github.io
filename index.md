@@ -3,23 +3,33 @@ layout: default
 title:
 ---
 
-<img src="assets/img/profile.png" alt="Tomasz Sternal" width="200" style="border-radius: 50%; float: right; margin: 0 0 1em 1em;">
+<section class="hero">
+  <div class="hero-body" markdown="1">
+<img class="portrait" src="assets/img/profile-480.jpg" alt="Tomasz Sternal">
 
-Hi, my name is **Tomasz Sternal**. I am a PhD student in the Scalable Parallel Computing Lab at ETH Zurich, supervised by [Torsten Hoefler](https://htor.ethz.ch/).
+<h1>Hi, I'm <em>Toma<span class="say" tabindex="0" role="button" aria-label="sz, read 'tom-ash'" data-tip="Read ‘tom-ash’">sz</span></em>.</h1>
+
+
+I am a PhD student in the Scalable Parallel Computing Lab at ETH Zurich, supervised by [Torsten Hoefler](https://htor.ethz.ch/).
 My research focuses on the interpretability and reasoning capabilities of transformer-based models.
 
 Before starting my PhD, I worked for five years as a Technical Lead at Palantir Technologies.
 
----
+<p class="hero-email"><span>Email</span> <a href="mailto:tsternal@ethz.ch">tsternal@ethz.ch</a></p>
+  </div>
 
-# News and Updates
+</section>
+
+<section class="section news" id="news" markdown="1">
+## News and Updates
 
 - **20.05.2026** I will be presenting my LLM interpretability research at this year's edition of [Pint of Science Zurich](https://pintofscience.ch/event/modeling-life/)
 - **30.04.2026** Our work on [Process Reward Agents (PRA)](https://x.com/Michael_D_Moor/status/2043600186065215701) got accepted to ICML 2026 in Seoul!
 
----
+</section>
 
-# Publications
+<section class="section publications" id="publications" markdown="1">
+## Publications
 
 - **Process Reward Agents for Steering Knowledge-Intensive Reasoning**  
   Jiwoong Sohn, **Tomasz Sternal**, Kenneth Styppa, Torsten Hoefler, Michael Moor · **_ICML_, 2026** · [arXiv](https://arxiv.org/abs/2604.09482)
@@ -42,16 +52,20 @@ Before starting my PhD, I worked for five years as a Technical Lead at Palantir 
 - **VizBin: An Application for Reference-independent Visualization and Human-augmented Binning of Metagenomic Data**  
   Cedric C. Laczny, **Tomasz Sternal**, Valentin Plugaru, Piotr Gawron, Arash Atashpendar, Houry Hera Margossian, Sergio Coronado, Laurens van der Maaten, Nikos Vlassis, Paul Wilmes · _Microbiome_, 2015 · [DOI](https://doi.org/10.1186/s40168-014-0066-1)
 
----
+</section>
 
-# Teaching
+<section class="section teaching" id="teaching" markdown="1">
+## Teaching
 
-- **Spring 2026**: TA for Cloud Computing Architectures
-- **Fall 2025**: TA for Probabilistic Artificial Intelligence - Diffusion Models section
-- **Spring 2025**: TA for Prallel Programming
+- **Spring 2026** TA for Cloud Computing Architectures
+- **Fall 2025** TA for Probabilistic Artificial Intelligence - Diffusion Models section
+- **Spring 2025** TA for Prallel Programming
 
----
+</section>
 
+<section class="section contact" id="contact" markdown="1">
 ## Contact
 
 Email: [tsternal@ethz.ch](mailto:tsternal@ethz.ch) · [GitHub](https://github.com/tomekster) · [Twitter](https://x.com/TomaszSternal) · [LinkedIn](https://www.linkedin.com/in/tsternal/)
+
+</section>

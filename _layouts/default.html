@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="wordmark" href="{{ '/' | relative_url }}">Tomasz Sternal</a>
+      <nav class="site-nav">
+        <a href="#news">News</a>
+        <a href="#publications">Publications</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="wrap page">
+    <main class="content">
+      {{ content }}
+    </main>
+    <aside class="art-rail" aria-hidden="true">
+      <img src="{{ '/assets/img/art/swoosh.webp' | relative_url }}" alt="">
+      <img src="{{ '/assets/img/art/ribbon-z.webp' | relative_url }}" alt="">
+      <img src="{{ '/assets/img/art/loops.webp' | relative_url }}" alt="">
+      <img src="{{ '/assets/img/art/knot.webp' | relative_url }}" alt="">
+    </aside>
+  </div>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span>© {{ 'now' | date: '%Y' }} Tomasz Sternal</span>
+      <span class="footer-note">Illustrations are strange attractors I generated with a few lines of Python.</span>
+    </div>
+  </footer>
+</body>
+</html>
